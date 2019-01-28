@@ -1,0 +1,10 @@
+.portal {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-bottom: 50px;
+
+  @media screen and (max-width: 640px) {
+    flex-direction: column;
+  }
+}
