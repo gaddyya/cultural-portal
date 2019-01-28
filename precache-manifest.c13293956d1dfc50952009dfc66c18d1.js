@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/cultural-portal/static/media/nefont.05be004b.ttf"
   },
   {
+    "revision": "955bb514baf4d06ad595f9e725791acf",
+    "url": "/cultural-portal/static/media/zmichgen.955bb514.jpg"
+  },
+  {
     "revision": "89a2695186b71e7e692ac9062f0fbdfd",
     "url": "/cultural-portal/static/media/gaddyya.89a26951.jpg"
   },
   {
     "revision": "c26d5d2a83c5ccacfe6487c4662852a0",
     "url": "/cultural-portal/static/media/zerovers.c26d5d2a.jpg"
-  },
-  {
-    "revision": "955bb514baf4d06ad595f9e725791acf",
-    "url": "/cultural-portal/static/media/zmichgen.955bb514.jpg"
   },
   {
     "revision": "092a527a4c0bb70caba247c89d4ed9cf",
